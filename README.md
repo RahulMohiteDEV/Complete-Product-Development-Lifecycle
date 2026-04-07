@@ -268,3 +268,5 @@ Product development is not linear — it’s iterative.
 You continuously improve based on feedback and data.
 
 ---
+
+<img width="1200" height="2134" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/92a5e26d-8f35-445c-b4e4-b81dcd6e5038" />
