@@ -238,29 +238,7 @@ Build → Measure → Learn → Iterate.
 
 ---
 
-# Summary Diagram
 
-```mermaid
-flowchart LR
-    A[Idea & Research] --> B[Requirements (SRS)]
-    B --> C[UI/UX Design]
-    C --> D[Architecture Design]
-    D --> E[Project Setup]
-    E --> F[Development]
-    F --> G[Testing & QA]
-    G --> H[Deployment]
-    H --> I[Monitoring]
-    I --> J[Scaling]
-    J --> K[Maintenance & Iteration]
-    K --> B
-
-    D --> S[Security]
-    E --> DOC[Documentation]
-    F --> DOC
-    G --> DOC
-```
-
----
 
 # Lifecycle Loop
 
